@@ -1,4 +1,4 @@
-# Страница авторизации для веб-сайта
+# Login page for a website
 
 This is a login page for a commercial project.
 
